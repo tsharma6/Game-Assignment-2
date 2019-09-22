@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Paint Activity'
+rootProject.name='g2'
